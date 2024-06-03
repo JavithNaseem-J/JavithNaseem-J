@@ -4,6 +4,7 @@
 <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javithnaseem-j&label=Profile%20views&color=0e75b6&style=flat" alt="javithnaseem-j" /> </p>
+<p>Hello! I'm Javith Naseem J, a driven and forward-thinking student currently pursuing a B.Tech in Computer Science and Engineering, with a specialization in Data Science and Artificial Intelligence. I have a  interest in the transformative potential of data analytics and am dedicated to honing my skills in this field. Proficient in Excel,SQL, Python,Power Bi, Tableau,R,Matplotlib,Seaborn,Plotly,scikit learn Libraries and Excel, I'm actively engaged in coursework focused on statistical analysis, machine learning, and data visualization techniques. Moreover, I'm enthusiastic about applying these skills to real-world scenarios, and I'm actively seeking internships or projects to gain hands-on experience in the field. Beyond academics, I'm an avid learner, constantly exploring new tools and technologies to stay abreast of industry trends. I'm eager to connect with fellow students and professionals to exchange ideas, collaborate on projects, and expand my network within the data analytics community.</p>
 
 - 📫 How to reach me **javithnaseem.j@gmail.com**
 
