@@ -1,27 +1,91 @@
-<h1 align="center">Hi 👋, I'm Javith Naseem J</h1>
-<h3 align="center">A Aspiring Data Analyst from Chennai,India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abeshith+👽;" />
+</h1>
 
-<img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<h2 align="center">💬 About Me 💤</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javithnaseem-j&label=Profile%20views&color=0e75b6&style=flat" alt="javithnaseem-j" /> </p>
-<p>Hello! I'm Javith Naseem J, a driven and forward-thinking student currently pursuing a B.Tech in Computer Science and Engineering, with a specialization in Data Science and Artificial Intelligence. I have a  interest in the transformative potential of data analytics and am dedicated to honing my skills in this field. Proficient in Excel,SQL, Python,Power Bi, Tableau,R,Matplotlib,Seaborn,Plotly,scikit learn Libraries and Excel, I'm actively engaged in coursework focused on statistical analysis, machine learning, and data visualization techniques. Moreover, I'm enthusiastic about applying these skills to real-world scenarios, and I'm actively seeking internships or projects to gain hands-on experience in the field. Beyond academics, I'm an avid learner, constantly exploring new tools and technologies to stay abreast of industry trends. I'm eager to connect with fellow students and professionals to exchange ideas, collaborate on projects, and expand my network within the data analytics community.</p>
+<br/>
 
-- 📫 How to reach me **javithnaseem.j@gmail.com**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/javithnaseemj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="javithnaseemj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/javithnaseemj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/javithnaseemj/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_javithh._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_javithh._/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/javithnaseem_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/javithnaseem_j" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/javithnaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/javithnaseem/" height="30" width="40" /></a>
-</p>
+Passionate student deeply intrigued by:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+### 🧠 *Expertise:*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javithnaseem-j&show_icons=true&locale=en&layout=compact" alt="javithnaseem-j" /></p>
+ *Machine Learning:* 🤖 <br/>
+ *Deep Learning:* 🌟<br/>
+ *Natural Language Processing (NLP):* 📝<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javithnaseem-j&show_icons=true&locale=en" alt="javithnaseem-j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javithnaseem-j&" alt="javithnaseem-j" /></p>
+### 📚 *Education:*
+
+Currently pursuing Data Science | AI at MGR University | Chennai.
+
+### 💻 *Projects:*
+
+Actively involved in various Machine Learning, Deep Learning and Natural Language Processing projects.
+
+### 🌱 *Next Steps:*
+
+Seeking opportunities for growth in data science.
+
+### 🤝 *Let's Connect:*
+
+Excited to collaborate and learn together!
+
+
+
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:abheshith7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/abeshithkumaravel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://abeshith-portfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://www.kaggle.com/abeshith" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" />
+</a> 
+
+
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,html,css,sklearn,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,r,mysql,flask,redhat,github" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚒🏆 Github Trophies ⚒🏆</h2>
+<br/>
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abeshith&theme=matrix&no-frame=false&no-bg=false&margin-w=4" /><br>
+</div>
+
+<br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    <img width=390 height=300  src="https://github-readme-streak-stats.herokuapp.com/?user=Abeshith&theme=dark&hide_border=false" />
+  <img width=390 height=300 src="https://github-readme-stats.vercel.app/api?username=Abeshith&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abeshith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
