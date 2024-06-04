@@ -70,7 +70,7 @@ Excited to collaborate and learn together!
 <h2 align="center">⚒🏆 Github Trophies ⚒🏆</h2>
 <br/>
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Abeshith&theme=matrix&no-frame=false&no-bg=false&margin-w=4" /><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=JavithNaseem-J&theme=matrix&no-frame=false&no-bg=false&margin-w=4" /><br>
 </div>
 
 <br/>
