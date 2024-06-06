@@ -12,18 +12,17 @@ Passionate student deeply intrigued by:
 
 ### 🧠 *Expertise:*
 
- *Machine Learning:* 🤖 <br/>
- *Deep Learning:* 🌟<br/>
- *Natural Language Processing (NLP):* 📝<br/>
+ *Data Anayltics:*📊<br/>
+ *Machine Learning:*🤖 <br/>
 
 
 ### 📚 *Education:*
 
-Currently pursuing Data Science | AI at MGR University | Chennai.
+Currently pursuing Artificial Intelligence and Data Science | AI at Dr.MGR University | Chennai.
 
 ### 💻 *Projects:*
 
-Actively involved in various Machine Learning, Deep Learning and Natural Language Processing projects.
+Actively involved in various Data Analytics, Machine Learning and Data Science projects.
 
 ### 🌱 *Next Steps:*
 
@@ -39,16 +38,16 @@ Excited to collaborate and learn together!
  </div>
  
 <div align="center"> 
-  <a href="mailto:abheshith7@gmail.com">
+  <a href="mailto:javithnaseem.j@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/abeshithkumaravel/" target="_blank">
+  <a href="https://linkedin.com/in/javithnaseemj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://abeshith-portfolio.netlify.app/" target="_blank">
+  <a href="https://wfo2nmjt4b3lbxnbvr6fiw.on.drv.tw/www.JavithNaseem.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-  <a href="https://www.kaggle.com/abeshith" target="_blank">
+  <a href="https://www.kaggle.com/javithj" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-333333?style=for-the-badge&logo=kaggle&logoColor=blue" />
 </a> 
 
@@ -57,7 +56,7 @@ Excited to collaborate and learn together!
 
  <hr/>
  
-<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
+<h2 align="center">⚒ Programming Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,sklearn,powerbi" /><br>
