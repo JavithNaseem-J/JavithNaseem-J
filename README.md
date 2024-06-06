@@ -4,7 +4,7 @@
 
 <!-- Add the new image here -->
 <div align="center">
-    <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation"/>
+    <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation" style="width: 200px; height: 200px;"/>
 </div>
 
 <h2 align="center">💬 About Me 💤</h2>
