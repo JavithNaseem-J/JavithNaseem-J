@@ -12,8 +12,8 @@ Passionate student deeply intrigued by:
 
 ### 🧠 *Expertise:*
 
-  *Data Anayltics:*📊<br/>
-  *Machine Learning:*🤖 <br/>
+   *Data Anayltics:*📊<br/>
+   *Machine Learning:*🤖 <br/>
 
 
 ### 📚 *Education:*
@@ -83,9 +83,12 @@ Excited to collaborate and learn together!
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=orange" alt=""/>
 </div>
 <br/>
+
+<br/>
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
