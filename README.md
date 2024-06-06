@@ -84,6 +84,9 @@ Excited to collaborate and learn together!
 </div>
 
 <br/><br/>
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <hr/>
 
