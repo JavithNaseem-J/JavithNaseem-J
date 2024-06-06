@@ -2,9 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith_Naseem+😉;" />
 </h1>
 
-
-
-
 <h2 align="center">💬 About Me 💤</h2>
 
 <br/>
@@ -15,13 +12,13 @@ Passionate student deeply intrigued by:
 
 ### 🧠 *Expertise:*
 
- *Data Anayltics:*📊<br/>
- *Machine Learning:*🤖 <br/>
+  *Data Anayltics:*📊<br/>
+  *Machine Learning:*🤖 <br/>
 
 
 ### 📚 *Education:*
 
-Currently pursuing Artificial Intelligence and Data Science | AI at Dr.MGR University | Chennai.
+Currently pursuing Artificial Intelligence and Data Science | at Dr.MGR University | Madurayavol,Chennai.
 
 ### 💻 *Projects:*
 
@@ -85,8 +82,10 @@ Excited to collaborate and learn together!
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-<br/><br/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+<br/>
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
