@@ -4,13 +4,13 @@
 
 <!-- Add the new image here -->
 <div align="center">
-    <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation" style="width: 400px; height: 350px;"/>
+    <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation" style="width: 450px; height: 300px;"/>
 </div>
 
 <h2 align="center">💬 About Me 💤</h2>
 <br/>
 <div align="center">
-    Passionate student deeply intrigued by:
+     <h3><b>A Passionate Data Analyst from India</b></h3>
     <br/><br/>
     <h3>🧠 *Expertise:*</h3>
     *Data Analytics:*📊<br/>
@@ -25,7 +25,7 @@
     <h3>🌱 *Next Steps:*</h3>
     Seeking opportunities for growth in data science.
     <br/><br/>
-    <h3>🤝 *Let's Connect:*</h3>
+    <h3>🤝 *Connect With Me:*</h3>
     Excited to collaborate and learn together!
 </div>
 
