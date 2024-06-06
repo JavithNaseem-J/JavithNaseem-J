@@ -10,7 +10,7 @@
 <h2 align="center">💬 About Me 💤</h2>
 <br/>
 <div align="center">
-     <h3><b>A Passionate Data Analyst from India</b></h3>
+     <h3><b>🌟A Passionate Data Analyst from India🌟</b></h3>
     <br/><br/>
     <h3>🧠 *Expertise:*</h3>
     *Data Analytics:*📊<br/>
