@@ -102,7 +102,7 @@
 </div>
 
 <br/> <!-- Added line break -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavithNaseem-J&radius=16&theme=react-dark&bg_color=20232a&area=true&order=5" height="auto" width="100%" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JavithNaseem-J&radius=16&theme=dark&hide_border=false&area=true&order=5" height="auto" width="100%" alt="activity-graph graph"  />
 <br/> <!-- Added line break -->
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
