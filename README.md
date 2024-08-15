@@ -86,19 +86,18 @@
 
 <br/>
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📊 Stats ✅</h2>
 <br>
 <div align=center>
-    <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=JavithNaseem-J&theme=dark&hide_border=false" />
-    <img width=390 height=300 src="https://github-readme-stats.vercel.app/api?username=JavithNaseem-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-    <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
 </br>
 
 <br>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=blue" alt=""/>
 </div>
 
 <br/> <!-- Added line break -->
