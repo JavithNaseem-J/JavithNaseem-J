@@ -24,7 +24,7 @@
     <h3>🌱 *Next Steps:*</h3>
     Seeking opportunities for growth in data science.
     <br/><br/>
-    <h3>🤝 *Connect With Me:*</h3>
+    <h3>🔗 *Connect With Me:*✨</h3>
     Excited to collaborate and learn together!
 </div>
 
