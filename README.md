@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=blue" alt=""/>
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith_Naseem+😉;" />
 </h1>
@@ -96,9 +99,7 @@
 </br>
 
 <br>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=blue" alt=""/>
-</div>
+
 
 <br/> <!-- Added line break -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavithNaseem-J&radius=16&theme=react-dark&bg_color=20232a&area=true&order=5" height="auto" width="100%" alt="activity-graph graph"  />
