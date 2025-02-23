@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=for-the-badge&color=blue" alt=""/>
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=JavithNaseem-J.JavithNaseem-J" />
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith_Naseem+😉;" />
@@ -89,14 +89,20 @@
 
 <br/>
 <hr/>
-<h2 align="center">📊 Stats ✅</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=370 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-</br>
+<div align="center">
+
+
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JavithNaseem-J&theme=gotham&hide_border=false&cache_seconds=21600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=21600)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavithNaseem-J&theme=dark&cache_seconds=21600"/>
+
+
+</div>
 
 <br>
 
