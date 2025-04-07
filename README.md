@@ -15,9 +15,11 @@
 <div align="center">
      <h3><b>🌟A Passionate Data Scientist & Analyst🌟</b></h3>
     <br/><br/>
-    <h3>🧠 *Expertise:*</h3>
+    <h3>*Expertise:*</h3>
     *Data Analytics:*📊<br/>
     *Machine Learning:*🤖 <br/>
+    *Deep Learning*🧠<br/>
+    *Natural Language Processing👾*
     <br/>
     <h3>📚 *Education:*</h3>
     Currently pursuing Artificial Intelligence and Data Science | at Dr.MGR University | Madurayavol, Chennai.
