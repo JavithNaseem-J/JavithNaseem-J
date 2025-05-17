@@ -24,41 +24,34 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 ---
 
-<!-- PASSION + EXPLORATION + GOALS -->
 <div align="center">
 
-<h2>💡 What I'm Passionate About</h2>
+## 💡 What I'm Passionate About
 
-<ul>
-  <li>🧠 <strong>Machine Learning & Deep Learning</strong></li>
-  <li>🔁 <strong>MLOps & End-to-End ML Pipelines</strong></li>
-  <li>🧾 Intermediate in <strong>Natural Language Processing</strong></li>
-  <li>🔬 Exploring the world of <strong>LLMs & GenAI</strong></li>
-</ul>
+🌟 🧠 **Machine Learning & Deep Learning & NLP**  
+🌟 🔁 **MLOps & End-to-End ML Pipelines**  
+🌟 🔬 Exploring the world of **LLMs & GenAI**
 
-<hr>
+---
 
-<h2>🌱 What I'm Currently Exploring</h2>
+## 🌱 What I'm Currently Exploring
 
-<ul>
-  <li>🐳 <strong>Docker Compose</strong> and scaling with <strong>Kubernetes</strong></li>
-  <li>☁️ Learning more <strong>AWS services</strong> in depth (IAM, Lambda, etc.)</li>
-  <li>⚙️ Workflow management with <strong>Apache Airflow</strong></li>
-  <li>🧠 Beginning my journey into <strong>LLMs</strong> and <strong>Generative AI</strong></li>
-</ul>
+🧪 🐳 **Docker Compose** and scaling with **Kubernetes**  
+🧪 ☁️ Learning more AWS services in depth (IAM, Lambda, etc.)  
+🧪 ⚙️ Workflow management with **Apache Airflow**  
+🧪 🧠 Beginning my journey into **LLMs** and **Generative AI**
 
-<hr>
+---
 
-<h2>🎯 My Goals</h2>
+## 🎯 Goals
 
-<ul>
-  <li>✅ Build and deploy <strong>production-grade ML systems</strong></li>
-  <li>📦 Contribute to <strong>open source</strong> and collaborative projects</li>
-  <li>🤖 Grow into a role that blends <strong>ML, software engineering</strong>, and <strong>cloud infrastructure</strong></li>
-  <li>📚 Never stop learning — especially in the fast-evolving world of <strong>AI</strong></li>
-</ul>
+🏆 ✅ Build and deploy **production-grade ML systems**  
+🏆 📦 Contribute to **open source** and collaborative projects  
+🏆 🤖 Grow into a role that blends **ML, software engineering**, and **cloud infrastructure**  
+🏆 🧩 Never stop learning — especially in the fast-evolving world of AI
 
 </div>
+
 
 ---
 
@@ -140,7 +133,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 ---
 
 <!-- TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JavithNaseem-J&theme=matrix&no-frame=false&no-bg=false&margin-w=4&color=blue" />
@@ -149,7 +142,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 ---
 
 <!-- STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats ⚡</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavithNaseem-J&theme=dark&cache_seconds=21600"/>
