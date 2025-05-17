@@ -10,29 +10,42 @@
     <img class="center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation" style="width: 450px; height: 300px;"/>
 </div>
 
+---
+
 <h2 align="center">💬 About Me 💤</h2>
-<br/>
-<div align="center">
-     <h3><b>🌟A Passionate Data Scientist & Analyst🌟</b></h3>
-    <br/><br/>
-    <h3>*Expertise:*</h3>
-    *Data Analytics:*📊<br/>
-    *Machine Learning:*🤖 <br/>
-    *Deep Learning*🧠<br/>
-    *Natural Language Processing👾*
-    <br/>
-    <h3>📚 *Education:*</h3>
-    Currently pursuing Artificial Intelligence and Data Science | at Dr.MGR University | Madurayavol, Chennai.
-    <br/><br/>
-    <h3>💻 *Projects:*</h3>
-    Actively involved in various Data Analytics, Machine Learning, and Data Science projects.
-    <br/><br/>
-    <h3>🌱 *Next Steps:*</h3>
-    Seeking opportunities for growth in data science.
-    <br/><br/>
-    <h3>🔗 *Connect With Me:*✨</h3>
-    Excited to collaborate and learn together!
-</div>
+
+I'm a passionate and curious machine learning enthusiast with a strong foundation in **ML, Deep Learning**, and **MLOps**. I love solving real-world problems by building scalable, production-grade systems that don't just work in notebooks—but thrive in production.
+
+With hands-on experience across the ML lifecycle, I'm on a mission to **bridge the gap between data science and engineering**. I enjoy creating modular, reproducible pipelines and deploying them with tools that mirror industry standards.
+
+---
+
+## 💡 What I'm Passionate About
+
+- 🧠 **Machine Learning & Deep Learning**
+- 🔁 **MLOps & End-to-End ML Pipelines**
+- 🧾 Intermediate in **Natural Language Processing**
+- 🔬 Exploring the world of **LLMs & GenAI**
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+- 🐳 **Docker Compose** and scaling with **Kubernetes**
+- ☁️ Learning more AWS services in depth (IAM, Lambda, etc.)
+- ⚙️ Workflow management with **Apache Airflow**
+- 🧠 Beginning my journey into **LLMs** and **Generative AI**
+
+---
+
+## 🎯 Goals
+
+- ✅ Build and deploy **production-grade ML systems**
+- 📦 Contribute to **open source** and collaborative projects
+- 🤖 Grow into a role that blends **ML, software engineering**, and **cloud infrastructure**
+- 🧩 Never stop learning — especially in the fast-evolving world of AI
+
+---
 
 <div align="center"> 
   <a href="mailto:javithnaseem.j@gmail.com">
@@ -52,7 +65,10 @@
 </a>
 </div>
 
+---
+
 <h2 align="center">Technologies I Work With:</h2>
+
 
 
 <div align="center">
@@ -82,6 +98,7 @@
 <h3>App & Dashboarding</h3>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <h3>Cloud, DevOps & MLOps</h3>
 
@@ -103,9 +120,7 @@
 
 </div>
 
-    
-
-
+---
 
 <h2 align="center">⚒🏆 Github Trophies ⚒🏆</h2>
 <br/>
@@ -113,8 +128,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=JavithNaseem-J&theme=matrix&no-frame=false&no-bg=false&margin-w=4&color=blue" /><br>
 </div>
 
-<br/>
-<hr/>
+---
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
@@ -123,13 +138,8 @@
 
 </div>
 
-<br>
+---
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
-
-<hr/>
-
-<br/>
-
