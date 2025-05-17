@@ -52,6 +52,10 @@
 </a>
 </div>
 
+<h2 align="center">Technologies I Work With:</h2>
+<h4 align="center">Languages</h4>
+<p align="center">
+    
 <!-- Languages & Data Tools -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,6 +64,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</p>
 
 <!-- Python Libraries -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -93,10 +99,7 @@
 
 <h2 align="center">Technologies I Work With:</h2>
 <h4 align="center">Languages</h4>
-<p align="center">
-    
-</p>
-<hr/>
+
 
 <h2 align="center">⚒🏆 Github Trophies ⚒🏆</h2>
 <br/>
