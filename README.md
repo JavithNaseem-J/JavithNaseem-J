@@ -32,7 +32,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 🌟 🔁 **MLOps & End-to-End ML Pipelines**  
 🌟 🔬 Exploring the world of **LLMs & GenAI**
 
----
+
 
 ## 🌱 What I'm Currently Exploring
 
@@ -41,7 +41,8 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 🧪 ⚙️ Workflow management with **Apache Airflow**  
 🧪 🧠 Beginning my journey into **LLMs** and **Generative AI**
 
----
+
+
 
 ## 🎯 Goals
 
@@ -52,8 +53,8 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 </div>
 
-
 ---
+
 
 <!-- TECHNOLOGIES -->
 <h2 align="center">🧰 Technologies I Work With</h2>
