@@ -88,7 +88,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<h3>☁️ Cloud, DevOps & MLOps</h3>
+<h3>☁️ Cloud,& MLOps</h3>
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
