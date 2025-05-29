@@ -28,28 +28,28 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 ## 💡 What I'm Passionate About
 
-🌟 🧠 **Machine Learning & Deep Learning & NLP**  
-🌟 🔁 **MLOps & End-to-End ML Pipelines**  
-🌟 🔬 Exploring the world of **LLMs & GenAI**
+🧠 **Machine Learning & Deep Learning & NLP**  
+🔁 **MLOps & End-to-End ML Pipelines**  
+🔬 Exploring the world of **LLMs & GenAI**
 
 
 
 ## 🌱 What I'm Currently Exploring
 
-🧪 🐳 **Docker Compose** and scaling with **Kubernetes**  
-🧪 ☁️ Learning more AWS services in depth (IAM, Lambda, etc.)  
-🧪 ⚙️ Workflow management with **Apache Airflow**  
-🧪 🧠 Beginning my journey into **LLMs** and **Generative AI**
+🐳 **Docker Compose** and scaling with **Kubernetes**  
+☁️ Learning more AWS services in depth (IAM, Lambda, etc.)  
+⚙️ Workflow management with **Apache Airflow**  
+🧠 Beginning my journey into **LLMs** and **Generative AI**
 
 
 
 
 ## 🎯 Goals
 
-🏆 ✅ Build and deploy **production-grade ML systems**  
-🏆 📦 Contribute to **open source** and collaborative projects  
-🏆 🤖 Grow into a role that blends **ML, software engineering**, and **cloud infrastructure**  
-🏆 🧩 Never stop learning — especially in the fast-evolving world of AI
+✅ Build and deploy **production-grade ML systems**  
+📦 Contribute to **open source** and collaborative projects  
+🤖 Grow into a role that blends **ML, software engineering**, and **cloud infrastructure**  
+🧩 Never stop learning — especially in the fast-evolving world of AI
 
 </div>
 
@@ -57,7 +57,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 
 <!-- TECHNOLOGIES -->
-<h2 align="center">🧰 Technologies I Work With</h2>
+<h2 align="center">🧰 Technologies I Work With ⚡</h2>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 ---
 
 <!-- CONTACT -->
-<h2 align="center">📬 Connect With Me</h2>
+<h2 align="center">📬 Connect With Me ✅</h2>
 
 <div align="center"> 
   <a href="mailto:javithnaseem.j@gmail.com">
