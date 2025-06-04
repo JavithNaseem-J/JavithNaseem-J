@@ -99,6 +99,8 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 <img src="https://img.shields.io/badge/Dagshub-FFB300?style=for-the-badge&logo=dagshub&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
 
 <h3>📈 Monitoring & Observability</h3>
 
