@@ -87,7 +87,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-009688?style=for-the-badge&logo=flask&logoColor=white"/>
 
 <h3>☁️ Cloud,& MLOps</h3>
 
@@ -99,7 +99,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 <img src="https://img.shields.io/badge/Dagshub-FFB300?style=for-the-badge&logo=dagshub&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MlFlow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
 
 <h3>📈 Monitoring & Observability</h3>
