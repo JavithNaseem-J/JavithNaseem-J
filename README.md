@@ -38,7 +38,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 ## 🌱 What I'm Currently Exploring
 
 🐳 **Docker Compose** and scaling with **Kubernetes**  
-☁️ Learning more AWS services in depth (IAM, Lambda, etc.)  
+☁️ Learning more AWS services in depth (IAM, EC2, EKS, etc.)  
 ⚙️ Workflow management with **Apache Airflow**  
 🧠 Beginning my journey into **LLMs** and **Generative AI**
 
@@ -111,7 +111,7 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=FraudGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/FraudGuard) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=Condition2Cure&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/Condition2Cure) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=FareFinder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/FareFinder) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=ChurnSheild&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/ChurnSheild) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=ChurnShield&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/ChurnShield) &nbsp;
 
 
 <!-- CONTACT -->
