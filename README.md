@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/JavithNaseem-J/count.svg" alt="Visitor Count" /><br>
-  <strong>Visitors so far: </strong><span id="profile-counter">Loading...</span>
+  <strong>Visitors</strong>
 </p>
 
 <h1 align="center">
