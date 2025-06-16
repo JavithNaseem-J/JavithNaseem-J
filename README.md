@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=JavithNaseem-J.JavithNaseem-J" />
+  <img src="https://profile-counter.glitch.me/JavithNaseem-J/count.svg" alt="Visitor Count" /><br>
+  <strong>Visitors so far: </strong><span id="profile-counter">Loading...</span>
 </p>
 
 <h1 align="center">
@@ -105,7 +106,9 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 
 </div>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=FraudGraud&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/FraudGraud) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=Condition2Cure&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/Condition2Cure) &nbsp;
+
 
 <!-- CONTACT -->
 <h2 align="center">📬 Connect With Me ✅</h2>
