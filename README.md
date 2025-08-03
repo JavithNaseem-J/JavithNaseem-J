@@ -107,11 +107,14 @@ With hands-on experience across the ML lifecycle, I'm on a mission to <strong>br
 </div>
 
 <h2 align="center"> Projects 💻</h2>
-
+<center>
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=FraudGuard&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/FraudGuard) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=Condition2Cure&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/Condition2Cure) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=FareFinder&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/FareFinder) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JavithNaseem-J&repo=ChurnShield&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/JavithNaseem-J/ChurnShield) &nbsp;
+
+</center>
 
 
 <!-- CONTACT -->
