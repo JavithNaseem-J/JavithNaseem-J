@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith_Naseem+😉;+MLOps+%26+AI+Engineer+🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith_Naseem+😉;+Building+Agentic+Systems+🤖;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -19,14 +19,122 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I am a <strong>Machine Learning Engineer</strong> passionate about bridging the gap between data science and production software. My focus is on building scalable <strong>MLOps pipelines</strong>, deploying <strong>LLM applications</strong>, and orchestrating complex workflows on <strong>Kubernetes</strong>.
+  I am a <strong>Machine Learning Engineer</strong> focused on building production-grade AI systems. My expertise spans <strong>Agentic Workflows</strong>, <strong>RAG Pipelines</strong>, and scalable <strong>MLOps Infrastructure</strong>. I bridge the gap between research code and deployed microservices.
 </p>
 
 <div align="center">
-  🔭 <strong>Currently exploring:</strong> LLM Agents, RAG Optimization, and Advanced AWS Networking.<br>
-  👯 <strong>Looking to collaborate on:</strong> End-to-End MLOps tools and Open Source AI projects.<br>
-  🌱 <strong>Learning:</strong> Rust for ML infrastructure.
+  🔭 <strong>Currently exploring:</strong> Agentic Agents, Model Context Protocol (MCP), and Multi-Agent Orchestration.<br>
+  👯 <strong>Looking to collaborate on:</strong> End-to-End GenAI platforms and Open Source MLOps tools.<br>
+  🌱 <strong>Learning:</strong> Advanced Model Quantization (Unsloth) and Rust for ML.
 </div>
+
+<br />
+
+<h2 align="center">🧰 Technologies & Tools</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>Generative AI & LLMs</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Unsloth-000000?style=flat&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FC521F?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><strong>MLOps & Cloud</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Evidently_AI-6A1B9A?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><strong>Core AI/ML</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-150458?style=flat&logo=xgboost&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LightGBM-4B275F?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Optuna-4B8BBE?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><strong>Backend & Viz</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<table align="center">
+  <tr>
+    <td width="30%" align="center">
+      <h3>🚀 SmartRoute-AI</h3>
+      <a href="https://github.com/JavithNaseem-J/SmartRoute-AI">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="70%">
+      <strong>Cost-Optimized LLM Routing System</strong><br>
+      Intelligent router using ML to direct queries to optimal models (Llama 8B vs 70B), reducing costs while maintaining quality.<br><br>
+      🛠️ <em>LangChain, Random Forest, ChromaDB, FastAPI, Streamlit</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <h3>⚡ WattPredictor</h3>
+      <a href="https://github.com/JavithNaseem-J/WattPredictor">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="70%">
+      <strong>End-to-End MLOps Forecasting</strong><br>
+      Production forecasting pipeline with real-time drift detection, feature stores, and Kubernetes deployment.<br><br>
+      🛠️ <em>XGBoost, Optuna, DVC, Evidently AI, Docker, K8s</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <h3>🛡️ FraudGuard</h3>
+      <a href="https://github.com/JavithNaseem-J/FraudGuard">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="70%">
+      <strong>Real-Time Fraud Detection API</strong><br>
+      High-throughput banking security system handling class imbalance, fully tracked via MLflow and deployed on AWS.<br><br>
+      🛠️ <em>XGBoost, LightGBM, MLflow, AWS, DVC, FastAPI</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <h3>🧠 NeuroScan</h3>
+      <a href="https://github.com/JavithNaseem-J/NeuroScan">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="70%">
+      <strong>Deep Learning Medical Imaging</strong><br>
+      CNN-based tumor classification pipeline utilizing ResNet architectures and OpenCV for automated diagnosis support.<br><br>
+      🛠️ <em>TensorFlow/Keras, ResNet, OpenCV, MLflow, Docker</em>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -49,98 +157,6 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </div>
-
-<br />
-
-<h2 align="center">🧰 Technologies & Tools</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="90"><strong>Languages</strong></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>MLOps & Cloud</strong></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>Data Science</strong></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90"><strong>Web & Viz</strong></td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h2 align="center">🏆 Featured Projects</h2>
-
-<table align="center">
-  <tr>
-    <td width="30%" align="center">
-      <h3>🚀 SmartRoute-AI</h3>
-      <a href="https://github.com/JavithNaseem-J/SmartRoute-AI">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="70%">
-      <strong>Cost-Optimized LLM Routing System</strong><br>
-      An intelligent router using LightGBM to direct queries to the most cost-effective model (Llama 8B vs 70B).<br><br>
-      🛠️ <em>Groq API, ChromaDB, FastAPI, Streamlit</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <h3>⚡ WattPredictor</h3>
-      <a href="https://github.com/JavithNaseem-J/WattPredictor">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="70%">
-      <strong>End-to-End Demand Forecasting</strong><br>
-      A production-grade forecasting pipeline for NYISO data with real-time drift detection and feature store.<br><br>
-      🛠️ <em>Kubernetes, Hopsworks, Evidently, DVC</em>
-    </td>
-  </tr>
-  <tr>
-    <td width="30%" align="center">
-      <h3>🛡️ FraudGuard</h3>
-      <a href="https://github.com/JavithNaseem-J/FraudGuard">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-      </a>
-    </td>
-    <td width="70%">
-      <strong>Real-Time Fraud Detection</strong><br>
-      High-throughput API handling class imbalance with SMOTE-Tomek, tracked via MLflow.<br><br>
-      🛠️ <em>AWS S3, DagsHub, MLflow, Docker</em>
-    </td>
-  </tr>
-</table>
 
 <br />
 
