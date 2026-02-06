@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="Header" />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JavithNaseem-J/count.svg" alt="Visitor Count" />
-  <br>
+  <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=flat-square&color=blue" alt="Profile Views" />
+</div>
   <strong>Visitors</strong>
 </div>
 
@@ -92,7 +92,7 @@
     <td width="70%">
       <strong>Cost-Optimized LLM Routing System</strong><br>
       Intelligent router using ML to direct queries to optimal models (Llama 8B vs 70B), reducing costs while maintaining quality.<br><br>
-      🛠️ <em>LangChain, Random Forest, ChromaDB, FastAPI, Streamlit</em>
+      🛠️ <em>Python, LangChain, Random Forest, ChromaDB, FastAPI, LLM APIs, Streamlit</em>
     </td>
   </tr>
   <tr>
@@ -105,7 +105,7 @@
     <td width="70%">
       <strong>End-to-End MLOps Forecasting</strong><br>
       Production forecasting pipeline with real-time drift detection, feature stores, and Kubernetes deployment.<br><br>
-      🛠️ <em>XGBoost, Optuna, DVC, Evidently AI, Docker, K8s</em>
+      🛠️ <em>Python, XGBoost, LightGBM, Optuna, scikit-learn, DVC, Evidently, Docker, Kubernetes, Streamlit, GitHub Actions</em>
     </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@
     <td width="70%">
       <strong>Real-Time Fraud Detection API</strong><br>
       High-throughput banking security system handling class imbalance, fully tracked via MLflow and deployed on AWS.<br><br>
-      🛠️ <em>XGBoost, LightGBM, MLflow, AWS, DVC, FastAPI</em>
+      🛠️ <em> Python, XGBoost, LightGBM, Optuna, MLflow, DVC, Docker, FastAPI, AWS, GitHub Actions</em>
     </td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@
     <td width="70%">
       <strong>Deep Learning Medical Imaging</strong><br>
       CNN-based tumor classification pipeline utilizing ResNet architectures and OpenCV for automated diagnosis support.<br><br>
-      🛠️ <em>TensorFlow/Keras, ResNet, OpenCV, MLflow, Docker</em>
+      🛠️ <em>Python, TensorFlow, Keras, ResNet, OpenCV, MLflow, DVC, Docker, Streamlit, scikit-learn</em>
     </td>
   </tr>
 </table>
@@ -160,27 +160,3 @@
 
 <br />
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JavithNaseem-J&theme=matrix&no-frame=false&no-bg=false&margin-w=4&color=blue" alt="Trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavithNaseem-J&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavithNaseem-J&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="180" alt="Languages" />
-</div>
-
-<br />
-
-<p align="center">
-  <img width="100%" src="github-snake.svg" alt="snake animation"/>
-</p>
-
-<hr />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Javith%20Naseem-blue?style=social&logo=github" />
-</p>
