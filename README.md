@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith+Naseem+😉;+AI+and+ML+Engineer🤖;+Building++Production+Systems✨;" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="waving hand animation" width="200px" />
-</div>
-
 <br />
 
 <h2 align="center">🚀 About Me</h2>
@@ -158,4 +154,17 @@
 </div>
 
 <br />
+<h2 align="center">⚡ Coding Mode & Demos</h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
+
+  &nbsp;
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Project 2" />
+
+  &nbsp;
+
+  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQko/giphy.gif" width="30%" alt="Project 3" />
+</div>
 
