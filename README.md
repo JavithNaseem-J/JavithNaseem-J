@@ -154,17 +154,9 @@
 </div>
 
 <br />
-<h2 align="center">⚡ Coding Mode & Demos</h2>
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
-
-  &nbsp;
-
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30%" alt="Project 2" />
-
-  &nbsp;
-
-  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQko/giphy.gif" width="30%" alt="Project 3" />
-</div>
-
+  <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
+  <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
+</p>
