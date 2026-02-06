@@ -3,8 +3,9 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JavithNaseem-J&style=flat-square&color=blue" alt="Profile Views" />
 </div>
-
-
+<div align="center">
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/dea563f8-61c2-49f6-bd1f-68230c119dad" />
+</div>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith+Naseem+😉;+AI+and+ML+Engineer🤖;+Building++Production+Systems✨;" alt="Typing SVG" />
 </h1>
