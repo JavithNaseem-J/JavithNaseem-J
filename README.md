@@ -5,7 +5,7 @@
 </div>
 ---
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith+Naseem+😉;+AI+/+ML+Engineer🤖;+Building++Production+Systems✨;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Javith+Naseem+😉;+AI+/+ML+Engineer🤖;" alt="Typing SVG" />
 </h1>
 <div align="center">
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5116d822-20c0-44e7-8bd5-f203af4aa336" />
