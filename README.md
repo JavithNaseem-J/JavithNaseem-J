@@ -154,10 +154,24 @@
   </a>
 </div>
 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Robin%20Sharma&quote=The%20smallest%20of%20actions%20is%20always%20better%20than%20the%20noblest%20of%20intentions.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+
+
+
 <br />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
   <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
   <img src="https://github.com/user-attachments/assets/f1c995f3-80e3-425a-9ab0-beafc71cdb6e" width="30%" alt="Coding Gif" />
+</p>
+
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
