@@ -15,7 +15,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I am a <strong>Machine Learning Engineer</strong> focused on building production-grade AI systems. My expertise spans <strong>Agentic Workflows</strong>, <strong>RAG Pipelines</strong>, and scalable <strong>MLOps Infrastructure</strong>. I bridge the gap between research code and deployed microservices.
+  I am a <strong>AI/ML Engineer</strong> focused on building production-grade AI systems. My expertise spans <strong>Agentic Workflows</strong>, <strong>RAG Pipelines</strong>, and scalable <strong>MLOps Infrastructure</strong>. I bridge the gap between research code and deployed microservices.
 </p>
 
 <div align="center">
@@ -120,14 +120,14 @@
   <tr>
     <td width="30%" align="center">
       <h3>🧠 NeuroScan</h3>
-      <a href="https://github.com/JavithNaseem-J/NeuroScan">
+      <a href="https://github.com/JavithNaseem-J/Kraken">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
       </a>
     </td>
     <td width="70%">
       <strong>Deep Learning Medical Imaging</strong><br>
       CNN-based tumor classification pipeline utilizing ResNet architectures and OpenCV for automated diagnosis support.<br><br>
-      🛠️ <em>Python, TensorFlow, Keras, ResNet, OpenCV, MLflow, DVC, Docker, Streamlit, scikit-learn</em>
+      🛠️ <em> Python, FastAPI, LangGraph, PostgreSQL, Redis, Docker, TypeScript, Langfuse</em>
     </td>
   </tr>
 </table>
