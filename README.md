@@ -119,7 +119,7 @@
   </tr>
   <tr>
     <td width="30%" align="center">
-      <h3>🧠 NeuroScan</h3>
+      <h3>👾 Kraken</h3>
       <a href="https://github.com/JavithNaseem-J/Kraken">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
       </a>
